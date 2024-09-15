@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmadiansyah-typ
 - 👀 I’m interested in coding
-- 📫 How to reach me @aldiowncloud@gmail.com
+- 📫 How to reach me aldiowncloud@gmail.com
 - 😄 Pronouns: Typ
 
 <!---
