@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ahmadiansyah-typ
+- 👋 Hi, I’m Ahmadiansyah
 - 👀 I’m interested in coding
-- 📫 How to reach me aldiowncloud@gmail.com
-- 😄 Pronouns: Typ
+- 📫 shiruvia2006@gmail.com
+- 😄 Typ
 
 <!---
 Ahmadiansyah-typ/Ahmadiansyah-typ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
